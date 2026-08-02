@@ -31,10 +31,10 @@ So there will for now be 2 dotfile configs the Laptop and the one you most likel
 
   * Desktop
       * Blank Desktop
-      ![](Desktop-With-Nothing.png)
+      ![](Blank-Desktop.png)
 
-      * Desktop with all terminal stuff that is custom (except btop since menu config in tui I think)
-      ![](All Customized Terminal scripts but btop not counting the ones in the fish config that is an alias with a lot of options.png)
+      * All customized terminal scripts 
+      ![](Desktop-with-all-customized-terminal-scripts.png)
 
 * Credits
   * All credits to dotfiles files go to me since well I made them
