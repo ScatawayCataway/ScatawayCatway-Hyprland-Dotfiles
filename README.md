@@ -1,10 +1,7 @@
 * Showcase Videos
   * Desktop:
   * Laptop:
-* These are my extremely simple dotfiles if forking go to the final line
-
-* Any ways please please please read the README for whatever version of the dotfiles you are downloading so you do not end up with missing packages because that will not be good at all
-So there will for now be 2 dotfile configs the Laptop and the one you most likely say the Desktop one for my well Desktop of coarse both will be put up
+* These are my extremely simple dotfiles for desktop and laptop if forking go to the final line
 
 * Setup (note look at the commands and change things you don't want or have installed if you do change stuff in the command PLEASE look at your dotfiles from me after)
   * Desktop
