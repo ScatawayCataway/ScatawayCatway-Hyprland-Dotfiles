@@ -1,3 +1,6 @@
+* Showcase Videos
+  * Desktop:
+  * Laptop:
 * These are my extremely simple dotfiles if forking go to the final line
 
 * Any ways please please please read the README for whatever version of the dotfiles you are downloading so you do not end up with missing packages because that will not be good at all
