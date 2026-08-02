@@ -36,6 +36,7 @@
 * Credits
   * All credits to dotfiles files go to me since well I made them
   * All (Credits to everything used across all configs)
+   * Btop: https://github.com/aristocratos/btop
     * Mako: https://github.com/emersion/mako
     * Waybar: https://github.com/alexays/waybar
     * Emote: https://github.com/tom-james-watson/Emote
