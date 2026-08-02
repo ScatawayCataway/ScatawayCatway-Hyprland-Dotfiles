@@ -6,3 +6,5 @@ So there will for now be 2 dotfile configs the Laptop (for my Chromebook that I 
 Credits/Download links
 (skip if not forking) If you do not give me any credit though and your dotfiles are a fork of mine and only have minor visual changes like changing the roundness or color of something I will take action and take it down just because its under a Public license does not mean I can not take action
 Cool Screenshot Time
+![](swappy-20260802_033904.png)
+![](./screenshots/screenshot2.jpg)
