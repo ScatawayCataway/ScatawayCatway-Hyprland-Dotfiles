@@ -27,13 +27,14 @@ So there will for now be 2 dotfile configs the Laptop and the one you most likel
   * Universal
 
     * Notifications
-    ![](swappy-20260802_040256.png)
+    ![](Notificaton.png)
+
   * Desktop
       * Blank Desktop
-      ![](swappy-20260802_033904.png)
+      ![](Desktop-With-Nothing.png)
 
-      * Desktop with all terminal stuff that is custom (I think)
-      ![](swappy-20260802_040328.png)
+      * Desktop with all terminal stuff that is custom (except btop since menu config in tui I think)
+      ![](All custom terminal scripts with custom dotfiles (except btop since menu config in tui I think).png)
 
 * Credits
   * All credits to dotfiles files go to me since well I made them
