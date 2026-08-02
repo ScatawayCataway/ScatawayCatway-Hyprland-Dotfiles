@@ -13,5 +13,5 @@ Blank Desktop
 Desktop with all terminal stuff that is custom (I think)
 ![](swappy-20260802_040328.png)
 
-Notification
-![](swappy-20260802_040328.png)
+Notifications
+![](swappy-20260802_040256.png)
