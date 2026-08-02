@@ -3,23 +3,6 @@
   * Laptop:
 * These are my extremely simple dotfiles for desktop and laptop if forking go to the final line
 
-* Setup (note look at the commands and change things you don't want or have installed if you do change stuff in the command PLEASE look at your dotfiles from me after)
-  * Desktop
-    * Assuming your running Arch or derivatives that use systemd run these commands
-        * sudo pacman -S swappy slurp waybar fastfetch fish mako uwsm cava kitty hyprland hyprlauncher hyprlock hyprpolkitagent figlet grim cmatrix ttf-3270 dolphin firefox blueman bluez pipewire pipewire-pulse pavucontrol btop
-        * yay -S wlogout hyprqt6engine mpvpaper fetch-git pixora-icons-git or paru -S wlogout hyprqt6engine mpvpaper fetch-git pixora-icons-git 
-        * systemctl enable --now --user pipewire pipewire-pulse
-        * sudo systemctl enable --now bluetooth
-        * Download Desktop Dotfiles and put in Your User folder
-        * Add any themes possibly (You need to add Cursor and Color Themes for hyprqt6engine)
-    * Laptop
-      * Assuming your running Arch or derivatives that use systemd run these commands
-        * sudo pacman -S swappy slurp waybar fastfetch fish mako uwsm cava kitty hyprland hyprlauncher hyprlock hyprpolkitagent figlet grim cmatrix ttf-3270 dolphin firefox blueman bluez pipewire pipewire-pulse pavucontrol power-profiles-daemon btop
-        * yay -S wlogout hyprqt6engine mpvpaper fetch-git pixora-icons-git or paru -S wlogout hyprqt6engine mpvpaper fetch-git pixora-icons-git 
-        * systemctl enable --now --user pipewire pipewire-pulse
-        * sudo systemctl enable --now bluetooth
-        * Download Laptop Dotfiles and put in Your User folder
-        * Add any themes possibly (You need to add Cursor and Color Themes for hyprqt6engine)
 * Cool Screenshot Time
   * Universal
 
