@@ -1,6 +1,6 @@
 * Showcase Videos
-  * Desktop:
-  * Laptop:
+  * Desktop: https://youtu.be/DI_1mhMy7UM
+  * Laptop: https://youtu.be/Btw6sJjUXpA
 * These are my extremely simple dotfiles for desktop and laptop if forking go to the final line
 
 * Cool Screenshot Time
