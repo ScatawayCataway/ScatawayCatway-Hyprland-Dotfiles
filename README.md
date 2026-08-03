@@ -5,16 +5,22 @@
 
 * Cool Screenshot Time
   * Universal
-
-    * Notifications
-    ![](Notificaton.png)
+   * Notifications
+   ![](Notificaton.png)
 
   * Desktop
-      * Blank Desktop
-      ![](Blank-Desktop.png)
+    * Blank Desktop
+    ![](Blank-Desktop.png)
 
-      * All customized terminal scripts 
-      ![](Desktop-with-all-customized-terminal-scripts.png)
+    * All customized terminal scripts 
+    ![](Desktop-with-all-customized-terminal-scripts.png)
+
+ * Laptop
+  * Blank Laptop
+  ![](Laptop-Blank.png)
+
+  * All customized terminal scripts
+  ![](Laptop-All-Custom.png)
 
 * Credits
   * All credits to dotfiles files go to me since well I made them
